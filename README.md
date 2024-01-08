@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am Agata 👋 
 
-<!--
-**agacja/agacja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web3 fullstack developer, focused on backend and smartcontracts based in Warsaw.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤓 I'd rather code in Yul than in Solidity 
+✨ I am currently polishing my knowlage about ZK programming languages
+
+## I code with
+solidity logo  javascript logo  noir logo react logo  nextjs logo  nodejs logo  nestjs logo
+
+
+
+
