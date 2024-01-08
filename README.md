@@ -1,6 +1,6 @@
 ### Hi there, I am Agata 👋 
 
-I'm a Web3 fullstack developer, focused on backend and smartcontracts based in Warsaw.
+I'm a Web3 fullstack developer, focused on backend and smartcontracts
 
 ## About me
 
